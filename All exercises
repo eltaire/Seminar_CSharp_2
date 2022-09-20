@@ -1,0 +1,118 @@
+//Задача 10
+
+Console.WriteLine("Введите трехзначное число");
+int a = Convert.ToInt32(Console.ReadLine());
+int FindNumbers(int a)
+{
+    int FirstNmb = a / 10;
+    int result = FirstNmb % 10;
+    return result;
+}
+int b = FindNumbers(a);
+Console.WriteLine("Вторая цифра Вашего числа равна " + b);
+
+//Задача 10 array
+Console.Write("Введите трёхзначное число: ");
+int IfNumber = Convert.ToInt32(Console.ReadLine());
+string IfString = Convert.ToString(IfNumber);
+Console.WriteLine("вторая цифра этого числа равна " + IfString[1]);
+
+//Задача 13 тяжко
+Console.WriteLine("Введите число");
+int a = Convert.ToInt32(Console.ReadLine()); //само число
+int b = a.ToString().Length; //его длина
+int ThirdDigit (int a, int b)
+{
+int thirdDigit = 0;
+    if (b < 3)
+    {
+        Console.Write("Третьей цифры не обнаружено ");
+    }
+    else
+    {
+        int c = 1;
+        for (int i = b; i > 3; i--)
+        {
+            c = c * 10;
+        }
+
+        thirdDigit = (a / c) % 10;
+    }
+return thirdDigit;
+}
+Console.Write(ThirdDigit(a, b));
+
+//Задача 13 
+Console.Write("Введите число: ");
+int IfNumber = Convert.ToInt32(Console.ReadLine());
+string IfString = Convert.ToString(IfNumber);
+int lenght = IfString.Length;
+if (lenght > 2)
+{
+  Console.WriteLine("Третья цифра Вашего числа равна " + IfString[2]);
+}
+else {
+  Console.WriteLine("В Вашем числе нет третьей цифры");
+}
+
+//Задача 14 Напишите программу, которая принимает на вход число и проверяет, кратно ли оно одновременно 7 и 23
+Console.Write("Введите число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+
+void DoubleCheck (int a)
+{
+    if (a % 7 == 0 & a % 23 == 0)
+    {
+        Console.WriteLine("Ваше число кратно числам 7 и 23");
+    }
+    else if (a % 7 == 0 )
+    {
+        Console.WriteLine("Ваше число кратно только 7"); 
+    }
+    else if (a % 23 == 0)
+    {
+        Console.WriteLine("Ваше число кратно только 23"); 
+    }
+    else Console.WriteLine("Ваше число не является кратным ни 7, ни 23");
+
+}
+DoubleCheck(a);
+
+//Задача 15
+Console.Write("Введите день недели в виде цифры: ");
+int DayDigit = Convert.ToInt32(Console.ReadLine());
+
+void LookForWeekEnd (int DayDigit) 
+{
+  if (DayDigit == 6 || DayDigit == 7) 
+  {
+  Console.WriteLine("Это выходной день!");
+  }
+  else if (DayDigit < 1 || DayDigit > 7) 
+  {
+    Console.WriteLine("В неделе не может быть столько дней, будьте внимательны и попробуйте еще раз!");
+  }
+  else Console.WriteLine("Этот день не выходной.");
+}
+
+LookForWeekEnd(DayDigit);
+
+// Задача 16  Напишите программу, которая принимает на вход два числа и проверяет, является ли одно число квадратом другого
+Console.WriteLine("Введите первое число");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите второе число");
+int b = Convert.ToInt32(Console.ReadLine());
+int A = a*a;
+int B = b*b;
+void CheckingSquare (int a, int b, int A, int B)
+{
+    if (a == B || b == A)
+    {
+       Console.WriteLine("Одно число является квадратом другого"); 
+    }
+    else
+    {
+        Console.WriteLine("Одно число не является квадратом другого"); 
+    }
+}
+CheckingSquare (a, b, A, B);
