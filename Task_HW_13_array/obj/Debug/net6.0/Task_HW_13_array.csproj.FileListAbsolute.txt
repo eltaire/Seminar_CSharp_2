@@ -1,0 +1,15 @@
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_13_array/obj/Debug/net6.0/Task_HW_13_array.csproj.AssemblyReference.cache
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_13_array/obj/Debug/net6.0/Task_HW_13_array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_13_array/obj/Debug/net6.0/Task_HW_13_array.AssemblyInfoInputs.cache
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_13_array/obj/Debug/net6.0/Task_HW_13_array.AssemblyInfo.cs
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_13_array/obj/Debug/net6.0/Task_HW_13_array.csproj.CoreCompileInputs.cache
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_13_array/bin/Debug/net6.0/Task_HW_13_array
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_13_array/bin/Debug/net6.0/Task_HW_13_array.deps.json
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_13_array/bin/Debug/net6.0/Task_HW_13_array.runtimeconfig.json
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_13_array/bin/Debug/net6.0/Task_HW_13_array.dll
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_13_array/bin/Debug/net6.0/Task_HW_13_array.pdb
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_13_array/obj/Debug/net6.0/Task_HW_13_array.dll
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_13_array/obj/Debug/net6.0/refint/Task_HW_13_array.dll
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_13_array/obj/Debug/net6.0/Task_HW_13_array.pdb
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_13_array/obj/Debug/net6.0/Task_HW_13_array.genruntimeconfig.cache
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_13_array/obj/Debug/net6.0/ref/Task_HW_13_array.dll

@@ -1,0 +1,15 @@
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_14/obj/Debug/net6.0/Task_HW_14.csproj.AssemblyReference.cache
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_14/obj/Debug/net6.0/Task_HW_14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_14/obj/Debug/net6.0/Task_HW_14.AssemblyInfoInputs.cache
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_14/obj/Debug/net6.0/Task_HW_14.AssemblyInfo.cs
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_14/obj/Debug/net6.0/Task_HW_14.csproj.CoreCompileInputs.cache
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_14/bin/Debug/net6.0/Task_HW_14
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_14/bin/Debug/net6.0/Task_HW_14.deps.json
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_14/bin/Debug/net6.0/Task_HW_14.runtimeconfig.json
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_14/bin/Debug/net6.0/Task_HW_14.dll
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_14/bin/Debug/net6.0/Task_HW_14.pdb
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_14/obj/Debug/net6.0/Task_HW_14.dll
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_14/obj/Debug/net6.0/refint/Task_HW_14.dll
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_14/obj/Debug/net6.0/Task_HW_14.pdb
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_14/obj/Debug/net6.0/Task_HW_14.genruntimeconfig.cache
+/Users/user_1/Desktop/Seminar_CSharp_02/Task_HW_14/obj/Debug/net6.0/ref/Task_HW_14.dll
